@@ -1,4 +1,4 @@
-I’m a **Software Engineer** specializing in **React** and **Next.js**.  
+**Software Engineer** specializing in **React** and **Next.js**.  
 Building modern web applications with **TypeScript**, **Vite**, and **Node.js/Express**.  
 Passionate about clean code, performance, and scalable architecture.
 
