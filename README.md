@@ -10,6 +10,10 @@ Passionate about clean code, performance, and scalable architecture.
 [![Email](https://img.shields.io/badge/Email-danpain779@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danpain779@gmail.com)
 
 ---
+### Resolved Issues
+
+- [🔧 Resolved 500 Internal Server Error for Kilo user due to corrupted `context.md` with Git merge conflict](https://github.com/Kilo-Org/kilocode/issues/7006)
+---
 
 ### Languages & Tools
 
