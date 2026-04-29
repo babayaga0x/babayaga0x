@@ -24,6 +24,3 @@ Passionate about clean code, performance, and scalable architecture.
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)]()
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
 [![Lighthouse](https://img.shields.io/badge/Lighthouse-0C7DC2?style=for-the-badge&logo=lighthouse&logoColor=white)]()
-
-Worked with [@Rosario-22](https://github.com/Rosario-22): https://github.com/Rosario-22/Hackaton-2026-Ajedrez3D.git
-
