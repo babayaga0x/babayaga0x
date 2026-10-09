@@ -62,7 +62,6 @@ Participated in an intensive 8-hour hackathon focused on rapid product developme
 Worked on a Three.js-based interactive 3D chess project, contributing across both frontend and backend integration layers. 
 Took ownership of connecting frontend systems with backend functionality during the development process to ensure stable interaction between application components under strict time constraints.
 
-Our team achieved **3rd place** in the competition.
 
 Key contributions:
 
