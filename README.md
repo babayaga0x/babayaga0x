@@ -55,7 +55,7 @@ Everything brilliant is simple.
 [![SEO](https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)]()
 
 
-## 3D Chess Hackathon Project
+## 🎖️3D Chess Hackathon Project
 
 Participated in an intensive 8-hour hackathon focused on rapid product development and collaborative engineering.
 
