@@ -1,6 +1,7 @@
-**Software Engineer** specializing in **React** and **Next.js**.  
-Building modern web applications with **TypeScript**, **Vite**, and **Node.js/Express**.  
-I love build products
+**Software Engineer** specializing in **React** and **Next.js**. **Fullstack**. **Full cycle development**.
+Building modern web applications with **TypeScript**, **Vite**, and **Node.js/Express**. 
+
+Everything brilliant is simple.
 
 ---
 
