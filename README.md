@@ -9,7 +9,7 @@ Everything brilliant is simple.
 
 [![Telegram](https://img.shields.io/badge/Telegram-Equil1brium-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Equil1brium)
 [![Email](https://img.shields.io/badge/Email-danpain779@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danpain779@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-daniels-881ab6389)
 ---
 
 ### Languages & Tools
