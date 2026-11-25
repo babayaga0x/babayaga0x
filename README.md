@@ -6,6 +6,7 @@ Everything brilliant is simple.
 ---
 
 ### Connect with me
+### Professional inquiries only. Please don't contact me for casual conversations or personal introductions.
 
 [![Telegram](https://img.shields.io/badge/Telegram-Equil1brium-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Equil1brium)
 [![Email](https://img.shields.io/badge/Email-danpain779@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danpain779@gmail.com)
